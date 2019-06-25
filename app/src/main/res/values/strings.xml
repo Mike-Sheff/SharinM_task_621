@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Логирование переходов</string>
+    <string name="textMessageOnCreate">onCreate</string>
+    <string name="textMessageOnStart">onStart</string>
+    <string name="textMessageOnResume">onResume</string>
+    <string name="textMessageOnStop">onStop</string>
+    <string name="textMessageOnPause">onPause</string>
+    <string name="textMessageOnRestart">onRestart</string>
+    <string name="textMessageOnDestroy">onDestroy</string>
+    <string name="textMessageOnPostCreate">onPostCreate</string>
+    <string name="textMessageOnPostResume">onPostResume</string>
+    <string name="textMessageOnBackPressed">onBackPressed</string>
+    <string name="textMessageOnKeyLongPress">onKeyLongPress</string>
+    <string name="textMessageOnKeyDown">onKeyDown</string>
+    <string name="textMessageSaveInstanceState">savedInstanceState is %s null</string>
+    <string name="textMessageOnRestoreInstanceState">onRestoreInstanceState</string>
+    <string name="textMessageOnSaveInstanceState">onSaveInstanceState</string>
+    <string name="textMessage">%s %s %s</string>
+</resources>
